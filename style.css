@@ -25,9 +25,7 @@
 .dropdown-menu{
     max-width: fit-content;
 }
-.navbar a{
-    /* color: white; */
-}
+
 
 .navbar{
     display: grid;
